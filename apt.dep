@@ -1,0 +1,7 @@
+apt-utils
+tesseract-ocr
+python3.7 python3.7-dev python3-pip python-setuptools
+imagemagick ghostscript poppler-utils
+libtiff5 libtiff libtiff-opengl libtiff5-dev libtiff-tools
+libzbar0 libzbar-dev
+cifs-utils
